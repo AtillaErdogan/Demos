@@ -3,36 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\E-Ticaret\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CC462970-596B-4BA9-9F5E-AE1CF6C5BE92}|E-Ticaret.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\e-ticaret\\mappings\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC462970-596B-4BA9-9F5E-AE1CF6C5BE92}|E-Ticaret.csproj|solutionrelative:mappings\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC462970-596B-4BA9-9F5E-AE1CF6C5BE92}|E-Ticaret.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\e-ticaret\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC462970-596B-4BA9-9F5E-AE1CF6C5BE92}|E-Ticaret.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC462970-596B-4BA9-9F5E-AE1CF6C5BE92}|E-Ticaret.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\e-ticaret\\dtos\\category\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC462970-596B-4BA9-9F5E-AE1CF6C5BE92}|E-Ticaret.csproj|solutionrelative:dtos\\category\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC462970-596B-4BA9-9F5E-AE1CF6C5BE92}|E-Ticaret.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\e-ticaret\\validation\\category\\updatecategorydtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC462970-596B-4BA9-9F5E-AE1CF6C5BE92}|E-Ticaret.csproj|solutionrelative:validation\\category\\updatecategorydtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC462970-596B-4BA9-9F5E-AE1CF6C5BE92}|E-Ticaret.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\e-ticaret\\dtos\\category\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC462970-596B-4BA9-9F5E-AE1CF6C5BE92}|E-Ticaret.csproj|solutionrelative:dtos\\category\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC462970-596B-4BA9-9F5E-AE1CF6C5BE92}|E-Ticaret.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\e-ticaret\\dtos\\category\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC462970-596B-4BA9-9F5E-AE1CF6C5BE92}|E-Ticaret.csproj|solutionrelative:dtos\\category\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC462970-596B-4BA9-9F5E-AE1CF6C5BE92}|E-Ticaret.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\e-ticaret\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC462970-596B-4BA9-9F5E-AE1CF6C5BE92}|E-Ticaret.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC462970-596B-4BA9-9F5E-AE1CF6C5BE92}|E-Ticaret.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\e-ticaret\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC462970-596B-4BA9-9F5E-AE1CF6C5BE92}|E-Ticaret.csproj|solutionrelative:configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC462970-596B-4BA9-9F5E-AE1CF6C5BE92}|E-Ticaret.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\e-ticaret\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC462970-596B-4BA9-9F5E-AE1CF6C5BE92}|E-Ticaret.csproj|solutionrelative:entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC462970-596B-4BA9-9F5E-AE1CF6C5BE92}|E-Ticaret.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\e-ticaret\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC462970-596B-4BA9-9F5E-AE1CF6C5BE92}|E-Ticaret.csproj|solutionrelative:configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC462970-596B-4BA9-9F5E-AE1CF6C5BE92}|E-Ticaret.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\e-ticaret\\validation\\category\\createcategorydtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC462970-596B-4BA9-9F5E-AE1CF6C5BE92}|E-Ticaret.csproj|solutionrelative:validation\\category\\createcategorydtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,105 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CategoryProfile.cs",
-              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\E-Ticaret\\Mappings\\CategoryProfile.cs",
-              "RelativeDocumentMoniker": "Mappings\\CategoryProfile.cs",
-              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\E-Ticaret\\Mappings\\CategoryProfile.cs",
-              "RelativeToolTip": "Mappings\\CategoryProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\E-Ticaret\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\E-Ticaret\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAACMAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T21:55:18.374Z",
+              "WhenOpened": "2025-12-06T23:25:27.884Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UpdateCategoryDto.cs",
-              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\E-Ticaret\\DTOs\\Category\\UpdateCategoryDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\Category\\UpdateCategoryDto.cs",
-              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\E-Ticaret\\DTOs\\Category\\UpdateCategoryDto.cs",
-              "RelativeToolTip": "DTOs\\Category\\UpdateCategoryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "UpdateCategoryDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\E-Ticaret\\Validation\\Category\\UpdateCategoryDtoValidator.cs",
+              "RelativeDocumentMoniker": "Validation\\Category\\UpdateCategoryDtoValidator.cs",
+              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\E-Ticaret\\Validation\\Category\\UpdateCategoryDtoValidator.cs",
+              "RelativeToolTip": "Validation\\Category\\UpdateCategoryDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T21:54:37.35Z",
+              "WhenOpened": "2025-12-06T23:25:06.471Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CreateCategoryDto.cs",
-              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\E-Ticaret\\DTOs\\Category\\CreateCategoryDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\Category\\CreateCategoryDto.cs",
-              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\E-Ticaret\\DTOs\\Category\\CreateCategoryDto.cs",
-              "RelativeToolTip": "DTOs\\Category\\CreateCategoryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Title": "CreateCategoryDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\E-Ticaret\\Validation\\Category\\CreateCategoryDtoValidator.cs",
+              "RelativeDocumentMoniker": "Validation\\Category\\CreateCategoryDtoValidator.cs",
+              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\E-Ticaret\\Validation\\Category\\CreateCategoryDtoValidator.cs",
+              "RelativeToolTip": "Validation\\Category\\CreateCategoryDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T21:54:15.221Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoryDto.cs",
-              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\E-Ticaret\\DTOs\\Category\\CategoryDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\Category\\CategoryDto.cs",
-              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\E-Ticaret\\DTOs\\Category\\CategoryDto.cs",
-              "RelativeToolTip": "DTOs\\Category\\CategoryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T21:53:30.041Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\E-Ticaret\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\E-Ticaret\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T21:51:01.078Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\E-Ticaret\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "Entities\\Category.cs",
-              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\E-Ticaret\\Entities\\Category.cs",
-              "RelativeToolTip": "Entities\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T21:50:02.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CategoryConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\E-Ticaret\\Configurations\\CategoryConfiguration.cs",
-              "RelativeDocumentMoniker": "Configurations\\CategoryConfiguration.cs",
-              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\E-Ticaret\\Configurations\\CategoryConfiguration.cs",
-              "RelativeToolTip": "Configurations\\CategoryConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T21:49:37.187Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\E-Ticaret\\Configurations\\ProductConfiguration.cs",
-              "RelativeDocumentMoniker": "Configurations\\ProductConfiguration.cs",
-              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\E-Ticaret\\Configurations\\ProductConfiguration.cs",
-              "RelativeToolTip": "Configurations\\ProductConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T21:49:09.995Z",
+              "WhenOpened": "2025-12-06T23:24:47.083Z",
               "EditorCaption": ""
             }
           ]

@@ -18,6 +18,10 @@ namespace E_Ticaret.Data
 
          
         }
-        
+
+        internal async Task FindAsync(Func<object, bool> value)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
