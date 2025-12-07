@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0q2hdyCpi1E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Application\\ECommerce.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ABDULHAMIT\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\ABDULHAMIT\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512",
+    "C:\\Users\\ABDULHAMIT\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

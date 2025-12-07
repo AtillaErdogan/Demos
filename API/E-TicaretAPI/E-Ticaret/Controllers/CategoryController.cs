@@ -1,11 +1,12 @@
 ﻿using AutoMapper;
-using E_Ticaret.Data;
+
 using E_Ticaret.DTOs.Category;
 using E_Ticaret.Entities;
 using E_Ticaret.Services.Category_S;
+using ECommerce.Services.Category_S;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
+
 
 namespace E_Ticaret.Controllers
 {

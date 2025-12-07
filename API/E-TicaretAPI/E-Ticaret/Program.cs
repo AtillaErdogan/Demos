@@ -1,15 +1,18 @@
-using E_Ticaret.Data;
-using E_Ticaret.Middlewares;
-using E_Ticaret.Repositories;
-using E_Ticaret.Repositories.Category_R;
-using E_Ticaret.Repositories.Product_R;
-using E_Ticaret.Services;
-using E_Ticaret.Services.Category_S;
-using E_Ticaret.Services.Product_S;
-using E_Ticaret.Validation.Product;
+using ECommerce.Application.Interfaces;
+using ECommerce.Data;
+using ECommerce.Domain.Interfaces;
 using FluentValidation;
 using FluentValidation.AspNetCore;
 using Microsoft.EntityFrameworkCore;
+using E_Ticaret.Services.Product_S;
+using E_Ticaret.Services.Category_S;
+using E_Ticaret.Repositories;
+using E_Ticaret.Repositories.Category_R;
+using E_Ticaret.Repositories.Product_R;
+using E_Ticaret.Middlewares;
+using ECommerce.Services.Category_S;
+using ECommerce.Services.Product_S;
+
 
 
 
