@@ -1,10 +1,9 @@
-﻿
-using E_Ticaret.DTOs.Product;
-using E_Ticaret.Entities;
-using E_Ticaret.Repositories;
-using E_Ticaret.Services.Product_S;
+﻿using AutoMapper;
 using ECommerce.Application.Interfaces;
 using ECommerce.Domain.Interfaces;
+using ECommerce.DTOs.Product;
+using ECommerce.Entities;
+using ECommerce.Repositories;
 
 
 namespace ECommerce.Services.Product_S
@@ -12,18 +11,21 @@ namespace ECommerce.Services.Product_S
     public class ProductService : GenericService<Product, ProductDto, CreateProductDto, UpdateProductDto>, IProductService
     {
 
-        private readonly IProductRepository _productRepository;
+        private readonly IProductRepository _repo;
+        private readonly IMapper _mapper;
         public ProductService(IGenericRepository<Product> repository, IProductRepository productRepository, AutoMapper.IMapper mapper)
             : base(repository, mapper)
         {
-            _productRepository = productRepository;
+            _repo = productRepository;
+            _mapper = mapper;
+
+            
 
         }
 
-        public async Task<List<ProductDto>> GetProductsByCategoryAsync(int categoryId)
+        public Task<List<ProductDto>> GetProductsByCategoryAsync(int categoryId)
         {
-            var products = await _productRepository.GetProductsByCategory(categoryId);
-            return _mapper.Map<List<ProductDto>>(products);
+            throw new NotImplementedException();
         }
     }
 }

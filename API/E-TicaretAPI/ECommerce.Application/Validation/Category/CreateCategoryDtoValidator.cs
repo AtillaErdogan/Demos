@@ -1,4 +1,5 @@
-﻿using E_Ticaret.DTOs.Category;
+﻿
+using ECommerce.DTOs.Category;
 using FluentValidation;
 
 

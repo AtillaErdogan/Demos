@@ -1,11 +1,10 @@
-﻿using E_Ticaret.DTOs.Category;
-using E_Ticaret.Entities;
-using E_Ticaret.Repositories;
-using ECommerce.Application.Interfaces;
+﻿using ECommerce.Application.Interfaces;
 using ECommerce.Domain.Interfaces;
-using ECommerce.Services.Category_S;
+using ECommerce.DTOs.Category;
+using ECommerce.Entities;
+using ECommerce.Repositories;
 
-namespace E_Ticaret.Services.Category_S
+namespace ECommerce.Services.Category_S
 {
 
 

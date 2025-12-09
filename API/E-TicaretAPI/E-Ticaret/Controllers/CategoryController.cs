@@ -1,14 +1,11 @@
 ﻿using AutoMapper;
-
-using E_Ticaret.DTOs.Category;
-using E_Ticaret.Entities;
-using E_Ticaret.Services.Category_S;
+using ECommerce.DTOs.Category;
 using ECommerce.Services.Category_S;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 
-namespace E_Ticaret.Controllers
+namespace ECommerce.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

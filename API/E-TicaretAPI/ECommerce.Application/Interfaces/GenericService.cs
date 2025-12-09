@@ -1,5 +1,5 @@
 ﻿using AutoMapper;
-using E_Ticaret.Repositories;
+using ECommerce.Repositories;
 
 namespace ECommerce.Application.Interfaces
 {
@@ -35,6 +35,7 @@ namespace ECommerce.Application.Interfaces
         public async Task<TDto> GetByIdAsync(int id)
         {
             var entity = await _repository.GetByIdAsync(id);
+            if (entity == null) throw new Exception("Veri Bulunamadı.");
             return _mapper.Map<TDto>(entity);
         }
 
@@ -55,6 +56,6 @@ namespace ECommerce.Application.Interfaces
 
             _repository.Delete(entity);
             await _repository.SaveChangesAsync();
-        }
+         }
     }
 }

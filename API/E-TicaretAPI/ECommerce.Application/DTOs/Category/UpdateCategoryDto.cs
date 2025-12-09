@@ -1,8 +1,8 @@
-﻿namespace E_Ticaret.DTOs.Category
+﻿namespace ECommerce.DTOs.Category
 {
     public class UpdateCategoryDto 
     {
-        public int Id { get; set; }
+        //public int Id { get; set; }
         public string? Name { get; set; }
     }
 }

@@ -3,102 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\E-Ticaret\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FCFC15DE-6431-401F-9A6C-D971EBB0A8D4}|..\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\ecommerce.application\\mappings\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCFC15DE-6431-401F-9A6C-D971EBB0A8D4}|..\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\ecommerce.application\\dtos\\product\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCFC15DE-6431-401F-9A6C-D971EBB0A8D4}|..\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\ecommerce.application\\dtos\\category\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCFC15DE-6431-401F-9A6C-D971EBB0A8D4}|..\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\ecommerce.application\\dtos\\category\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCFC15DE-6431-401F-9A6C-D971EBB0A8D4}|..\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\ecommerce.application\\dtos\\category\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCFC15DE-6431-401F-9A6C-D971EBB0A8D4}|..\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\ecommerce.application\\interfaces\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC462970-596B-4BA9-9F5E-AE1CF6C5BE92}|ECommerce.API.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\e-ticaret\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC462970-596B-4BA9-9F5E-AE1CF6C5BE92}|ECommerce.API.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50798411-58BE-4AFD-B59E-78CD132B0DF3}|..\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\ecommerce.infrastructure\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50798411-58BE-4AFD-B59E-78CD132B0DF3}|..\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\ecommerce.infrastructure\\configurations\\baseentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC462970-596B-4BA9-9F5E-AE1CF6C5BE92}|ECommerce.API.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\e-ticaret\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC462970-596B-4BA9-9F5E-AE1CF6C5BE92}|ECommerce.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCFC15DE-6431-401F-9A6C-D971EBB0A8D4}|..\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\ecommerce.application\\services\\category\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FCFC15DE-6431-401F-9A6C-D971EBB0A8D4}|..\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\ecommerce.application\\services\\product\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50798411-58BE-4AFD-B59E-78CD132B0DF3}|..\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\ecommerce.infrastructure\\repositories\\product\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCFC15DE-6431-401F-9A6C-D971EBB0A8D4}|..\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\ecommerce.application\\services\\category\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\10.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50798411-58BE-4AFD-B59E-78CD132B0DF3}|..\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\ecommerce.infrastructure\\migrations\\20251204201022_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50798411-58BE-4AFD-B59E-78CD132B0DF3}|..\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\ecommerce.infrastructure\\migrations\\20251204212738_migv2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50798411-58BE-4AFD-B59E-78CD132B0DF3}|..\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\ecommerce.infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50798411-58BE-4AFD-B59E-78CD132B0DF3}|..\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\ecommerce.infrastructure\\repositories\\category\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50798411-58BE-4AFD-B59E-78CD132B0DF3}|..\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\ecommerce.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCFC15DE-6431-401F-9A6C-D971EBB0A8D4}|..\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\ecommerce.application\\dtos\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50798411-58BE-4AFD-B59E-78CD132B0DF3}|..\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\ecommerce.infrastructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50798411-58BE-4AFD-B59E-78CD132B0DF3}|..\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\ecommerce.infrastructure\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCFC15DE-6431-401F-9A6C-D971EBB0A8D4}|..\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\ecommerce.application\\validation\\category\\createcategorydtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCFC15DE-6431-401F-9A6C-D971EBB0A8D4}|..\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\ecommerce.application\\validation\\product\\createproductdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCFC15DE-6431-401F-9A6C-D971EBB0A8D4}|..\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\ecommerce.application\\validation\\category\\updatecategorydtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCFC15DE-6431-401F-9A6C-D971EBB0A8D4}|..\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\ecommerce.application\\mappings\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{849C9B1B-8435-478F-842A-26D3811E8F1D}|..\\ECommerce.Domain\\ECommerce.Domain.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\ecommerce.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCFC15DE-6431-401F-9A6C-D971EBB0A8D4}|..\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\ecommerce.application\\dtos\\product\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{849C9B1B-8435-478F-842A-26D3811E8F1D}|..\\ECommerce.Domain\\ECommerce.Domain.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\ecommerce.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCFC15DE-6431-401F-9A6C-D971EBB0A8D4}|..\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\ecommerce.application\\interfaces\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FCFC15DE-6431-401F-9A6C-D971EBB0A8D4}|..\\ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\ecommerce.application\\services\\product\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC462970-596B-4BA9-9F5E-AE1CF6C5BE92}|ECommerce.API.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\e-ticaret\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC462970-596B-4BA9-9F5E-AE1CF6C5BE92}|ECommerce.API.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{849C9B1B-8435-478F-842A-26D3811E8F1D}|..\\ECommerce.Domain\\ECommerce.Domain.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\ecommerce.domain\\interfaces\\product\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{849C9B1B-8435-478F-842A-26D3811E8F1D}|..\\ECommerce.Domain\\ECommerce.Domain.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\ecommerce.domain\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50798411-58BE-4AFD-B59E-78CD132B0DF3}|..\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|c:\\users\\abdulhamit\\desktop\\demos\\demos\\api\\e-ticaretapi\\ecommerce.infrastructure\\repositories\\product\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -108,422 +29,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Application\\Services\\Product\\ProductService.cs",
-              "RelativeDocumentMoniker": "..\\ECommerce.Application\\Services\\Product\\ProductService.cs",
-              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Application\\Services\\Product\\ProductService.cs",
-              "RelativeToolTip": "..\\ECommerce.Application\\Services\\Product\\ProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAABrAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T08:30:21.716Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\E-Ticaret\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\E-Ticaret\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAMwB4AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T08:24:15.996Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Application\\Services\\Category\\CategoryService.cs",
-              "RelativeDocumentMoniker": "..\\ECommerce.Application\\Services\\Category\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Application\\Services\\Category\\CategoryService.cs",
-              "RelativeToolTip": "..\\ECommerce.Application\\Services\\Category\\CategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAABwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T08:30:16.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BaseEntityConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Infrastructure\\Configurations\\BaseEntityConfiguration.cs",
-              "RelativeDocumentMoniker": "..\\ECommerce.Infrastructure\\Configurations\\BaseEntityConfiguration.cs",
-              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Infrastructure\\Configurations\\BaseEntityConfiguration.cs",
-              "RelativeToolTip": "..\\ECommerce.Infrastructure\\Configurations\\BaseEntityConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T08:30:46.123Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GenericService.cs",
-              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Application\\Interfaces\\GenericService.cs",
-              "RelativeDocumentMoniker": "..\\ECommerce.Application\\Interfaces\\GenericService.cs",
-              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Application\\Interfaces\\GenericService.cs",
-              "RelativeToolTip": "..\\ECommerce.Application\\Interfaces\\GenericService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T08:30:33.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CategoryDto.cs",
-              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Application\\DTOs\\Category\\CategoryDto.cs",
-              "RelativeDocumentMoniker": "..\\ECommerce.Application\\DTOs\\Category\\CategoryDto.cs",
-              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Application\\DTOs\\Category\\CategoryDto.cs",
-              "RelativeToolTip": "..\\ECommerce.Application\\DTOs\\Category\\CategoryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T08:30:39.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CreateCategoryDto.cs",
-              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Application\\DTOs\\Category\\CreateCategoryDto.cs",
-              "RelativeDocumentMoniker": "..\\ECommerce.Application\\DTOs\\Category\\CreateCategoryDto.cs",
-              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Application\\DTOs\\Category\\CreateCategoryDto.cs",
-              "RelativeToolTip": "..\\ECommerce.Application\\DTOs\\Category\\CreateCategoryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T08:30:40.249Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UpdateCategoryDto.cs",
-              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Application\\DTOs\\Category\\UpdateCategoryDto.cs",
-              "RelativeDocumentMoniker": "..\\ECommerce.Application\\DTOs\\Category\\UpdateCategoryDto.cs",
-              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Application\\DTOs\\Category\\UpdateCategoryDto.cs",
-              "RelativeToolTip": "..\\ECommerce.Application\\DTOs\\Category\\UpdateCategoryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T08:32:36.404Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CreateProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Application\\DTOs\\Product\\CreateProductDto.cs",
-              "RelativeDocumentMoniker": "..\\ECommerce.Application\\DTOs\\Product\\CreateProductDto.cs",
-              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Application\\DTOs\\Product\\CreateProductDto.cs",
-              "RelativeToolTip": "..\\ECommerce.Application\\DTOs\\Product\\CreateProductDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T08:32:07.843Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CategoryProfile.cs",
-              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Application\\Mappings\\CategoryProfile.cs",
-              "RelativeDocumentMoniker": "..\\ECommerce.Application\\Mappings\\CategoryProfile.cs",
-              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Application\\Mappings\\CategoryProfile.cs",
-              "RelativeToolTip": "..\\ECommerce.Application\\Mappings\\CategoryProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T08:30:12.962Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ICategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Application\\Services\\Category\\ICategoryService.cs",
-              "RelativeDocumentMoniker": "..\\ECommerce.Application\\Services\\Category\\ICategoryService.cs",
-              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Application\\Services\\Category\\ICategoryService.cs",
-              "RelativeToolTip": "..\\ECommerce.Application\\Services\\Category\\ICategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T08:30:17.614Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Microsoft.NET.Sdk.DefaultItems.targets",
-              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\10.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
-              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\10.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\10.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
-              "ViewState": "AgIAAIEAAAAAAAAAAAAhwJAAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-12-07T08:25:58.462Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Infrastructure\\Repositories\\Product\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "..\\ECommerce.Infrastructure\\Repositories\\Product\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Infrastructure\\Repositories\\Product\\ProductRepository.cs",
-              "RelativeToolTip": "..\\ECommerce.Infrastructure\\Repositories\\Product\\ProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T08:41:25.011Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\E-Ticaret\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\E-Ticaret\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAMwAwAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T08:43:46.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "20251204201022_InitialCreate.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Infrastructure\\Migrations\\20251204201022_InitialCreate.Designer.cs",
-              "RelativeDocumentMoniker": "..\\ECommerce.Infrastructure\\Migrations\\20251204201022_InitialCreate.Designer.cs",
-              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Infrastructure\\Migrations\\20251204201022_InitialCreate.Designer.cs",
-              "RelativeToolTip": "..\\ECommerce.Infrastructure\\Migrations\\20251204201022_InitialCreate.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T08:42:12.202Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CategoryConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Infrastructure\\Configurations\\CategoryConfiguration.cs",
-              "RelativeDocumentMoniker": "..\\ECommerce.Infrastructure\\Configurations\\CategoryConfiguration.cs",
-              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Infrastructure\\Configurations\\CategoryConfiguration.cs",
-              "RelativeToolTip": "..\\ECommerce.Infrastructure\\Configurations\\CategoryConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T08:30:47.612Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "20251204212738_MigV2.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Infrastructure\\Migrations\\20251204212738_MigV2.Designer.cs",
-              "RelativeDocumentMoniker": "..\\ECommerce.Infrastructure\\Migrations\\20251204212738_MigV2.Designer.cs",
-              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Infrastructure\\Migrations\\20251204212738_MigV2.Designer.cs",
-              "RelativeToolTip": "..\\ECommerce.Infrastructure\\Migrations\\20251204212738_MigV2.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T08:41:59.762Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "..\\ECommerce.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeToolTip": "..\\ECommerce.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T08:41:49.206Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Infrastructure\\Repositories\\Category\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "..\\ECommerce.Infrastructure\\Repositories\\Category\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Infrastructure\\Repositories\\Category\\CategoryRepository.cs",
-              "RelativeToolTip": "..\\ECommerce.Infrastructure\\Repositories\\Category\\CategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T08:41:12.154Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Infrastructure\\Repositories\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "..\\ECommerce.Infrastructure\\Repositories\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Infrastructure\\Repositories\\GenericRepository.cs",
-              "RelativeToolTip": "..\\ECommerce.Infrastructure\\Repositories\\GenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T08:40:53.936Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ProductConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Infrastructure\\Configurations\\ProductConfiguration.cs",
-              "RelativeDocumentMoniker": "..\\ECommerce.Infrastructure\\Configurations\\ProductConfiguration.cs",
-              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Infrastructure\\Configurations\\ProductConfiguration.cs",
-              "RelativeToolTip": "..\\ECommerce.Infrastructure\\Configurations\\ProductConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T08:30:49.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "CreateCategoryDtoValidator.cs",
-              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Application\\Validation\\Category\\CreateCategoryDtoValidator.cs",
-              "RelativeDocumentMoniker": "..\\ECommerce.Application\\Validation\\Category\\CreateCategoryDtoValidator.cs",
-              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Application\\Validation\\Category\\CreateCategoryDtoValidator.cs",
-              "RelativeToolTip": "..\\ECommerce.Application\\Validation\\Category\\CreateCategoryDtoValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T08:30:27.403Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Infrastructure\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "..\\ECommerce.Infrastructure\\Context\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Infrastructure\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "..\\ECommerce.Infrastructure\\Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T08:30:52.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Application\\DTOs\\Product\\ProductDto.cs",
-              "RelativeDocumentMoniker": "..\\ECommerce.Application\\DTOs\\Product\\ProductDto.cs",
-              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Application\\DTOs\\Product\\ProductDto.cs",
-              "RelativeToolTip": "..\\ECommerce.Application\\DTOs\\Product\\ProductDto.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T08:31:38.703Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "CreateProductDtoValidator.cs",
-              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Application\\Validation\\Product\\CreateProductDtoValidator.cs",
-              "RelativeDocumentMoniker": "..\\ECommerce.Application\\Validation\\Product\\CreateProductDtoValidator.cs",
-              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Application\\Validation\\Product\\CreateProductDtoValidator.cs",
-              "RelativeToolTip": "..\\ECommerce.Application\\Validation\\Product\\CreateProductDtoValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T08:30:31.538Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "UpdateCategoryDtoValidator.cs",
-              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Application\\Validation\\Category\\UpdateCategoryDtoValidator.cs",
-              "RelativeDocumentMoniker": "..\\ECommerce.Application\\Validation\\Category\\UpdateCategoryDtoValidator.cs",
-              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Application\\Validation\\Category\\UpdateCategoryDtoValidator.cs",
-              "RelativeToolTip": "..\\ECommerce.Application\\Validation\\Category\\UpdateCategoryDtoValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T08:30:29.058Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ProductProfile.cs",
-              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Application\\Mappings\\ProductProfile.cs",
-              "RelativeDocumentMoniker": "..\\ECommerce.Application\\Mappings\\ProductProfile.cs",
-              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Application\\Mappings\\ProductProfile.cs",
-              "RelativeToolTip": "..\\ECommerce.Application\\Mappings\\ProductProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAApwBQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T08:30:11.814Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Domain\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "..\\ECommerce.Domain\\Entities\\Category.cs",
-              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Domain\\Entities\\Category.cs",
-              "RelativeToolTip": "..\\ECommerce.Domain\\Entities\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T08:25:53.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "UpdateProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Application\\DTOs\\Product\\UpdateProductDto.cs",
-              "RelativeDocumentMoniker": "..\\ECommerce.Application\\DTOs\\Product\\UpdateProductDto.cs",
-              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Application\\DTOs\\Product\\UpdateProductDto.cs",
-              "RelativeToolTip": "..\\ECommerce.Application\\DTOs\\Product\\UpdateProductDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T08:32:18.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Domain\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "..\\ECommerce.Domain\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Domain\\Entities\\Product.cs",
-              "RelativeToolTip": "..\\ECommerce.Domain\\Entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T08:31:00.553Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "IGenericService.cs",
-              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Application\\Interfaces\\IGenericService.cs",
-              "RelativeDocumentMoniker": "..\\ECommerce.Application\\Interfaces\\IGenericService.cs",
-              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Application\\Interfaces\\IGenericService.cs",
-              "RelativeToolTip": "..\\ECommerce.Application\\Interfaces\\IGenericService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T08:30:35.846Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
               "Title": "IProductService.cs",
               "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Application\\Services\\Product\\IProductService.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.Application\\Services\\Product\\IProductService.cs",
               "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Application\\Services\\Product\\IProductService.cs",
               "RelativeToolTip": "..\\ECommerce.Application\\Services\\Product\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T10:09:47.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\E-Ticaret\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\E-Ticaret\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T10:09:07.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Application\\Services\\Product\\ProductService.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.Application\\Services\\Product\\ProductService.cs",
+              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Application\\Services\\Product\\ProductService.cs",
+              "RelativeToolTip": "..\\ECommerce.Application\\Services\\Product\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T10:00:51.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Infrastructure\\Repositories\\Product\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.Infrastructure\\Repositories\\Product\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Infrastructure\\Repositories\\Product\\ProductRepository.cs",
+              "RelativeToolTip": "..\\ECommerce.Infrastructure\\Repositories\\Product\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T09:57:20.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Domain\\Interfaces\\Product\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.Domain\\Interfaces\\Product\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Domain\\Interfaces\\Product\\IProductRepository.cs",
+              "RelativeToolTip": "..\\ECommerce.Domain\\Interfaces\\Product\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T09:57:03.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Domain\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.Domain\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\ABDULHAMIT\\Desktop\\Demos\\Demos\\API\\E-TicaretAPI\\ECommerce.Domain\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "..\\ECommerce.Domain\\Interfaces\\IGenericRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T08:30:20.776Z",
+              "WhenOpened": "2025-12-07T09:56:59.691Z",
               "EditorCaption": ""
             }
           ]

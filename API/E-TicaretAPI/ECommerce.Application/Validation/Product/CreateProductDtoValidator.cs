@@ -1,4 +1,4 @@
-﻿using E_Ticaret.DTOs.Product;
+﻿using ECommerce.DTOs.Product;
 using FluentValidation;
 
 namespace ECommerce.Validation.Product

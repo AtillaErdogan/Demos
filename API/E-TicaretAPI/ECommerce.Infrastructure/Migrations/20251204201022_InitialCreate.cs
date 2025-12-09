@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace E_Ticaret.Migrations
+namespace ECommerce.Migrations
 {
     /// <inheritdoc />
     public partial class InitialCreate : Migration

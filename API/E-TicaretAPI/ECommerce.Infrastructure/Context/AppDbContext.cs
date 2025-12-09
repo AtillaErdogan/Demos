@@ -1,4 +1,5 @@
-﻿using E_Ticaret.Entities;
+﻿
+using ECommerce.Entities;
 using Microsoft.EntityFrameworkCore;
 
 

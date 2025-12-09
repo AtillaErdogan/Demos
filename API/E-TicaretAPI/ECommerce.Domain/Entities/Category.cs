@@ -1,6 +1,6 @@
 ﻿using ECommerce.Domain.Entities.Base;
 
-namespace E_Ticaret.Entities
+namespace ECommerce.Entities
 {
     public class Category : IEntity
     {

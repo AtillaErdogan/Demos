@@ -1,6 +1,7 @@
-﻿using E_Ticaret.DTOs.Category;
-using E_Ticaret.Entities;
+﻿
 using ECommerce.Application.Interfaces;
+using ECommerce.DTOs.Category;
+using ECommerce.Entities;
 
 namespace ECommerce.Services.Category_S
 {

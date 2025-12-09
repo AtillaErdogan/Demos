@@ -1,9 +1,8 @@
 ﻿using AutoMapper;
-using E_Ticaret.DTOs.Category;
-using E_Ticaret.DTOs.Product;
-using E_Ticaret.Entities;
+using ECommerce.DTOs.Product;
+using ECommerce.Entities;
 
-namespace E_Ticaret.Mappings
+namespace ECommerce.Application.Mappings
 {
     public class ProductProfile : Profile
     {

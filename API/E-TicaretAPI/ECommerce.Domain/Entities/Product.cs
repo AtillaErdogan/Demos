@@ -1,7 +1,7 @@
 ﻿using ECommerce.Domain.Entities.Base;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace E_Ticaret.Entities
+namespace ECommerce.Entities
 {
     public class Product :IEntity
     {

@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using System;
 using System.Linq.Expressions;
 
-namespace E_Ticaret.Repositories
+namespace ECommerce.Repositories
 {
     public class GenericRepository<T> : IGenericRepository<T> where T : class
     {

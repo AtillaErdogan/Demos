@@ -1,7 +1,7 @@
 ﻿using System.Net;
 using System.Text.Json;
 
-namespace E_Ticaret.Middlewares
+namespace ECommerce.Middlewares
 {
     public class ExceptionMiddleware
     {

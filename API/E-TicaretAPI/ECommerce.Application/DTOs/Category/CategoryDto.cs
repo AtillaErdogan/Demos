@@ -1,4 +1,4 @@
-﻿namespace E_Ticaret.DTOs.Category
+﻿namespace ECommerce.DTOs.Category
 {
     public class CategoryDto
     {

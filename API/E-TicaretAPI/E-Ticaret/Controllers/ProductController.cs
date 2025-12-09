@@ -1,11 +1,10 @@
-﻿using E_Ticaret.DTOs.Category;
-using E_Ticaret.DTOs.Product;
-using E_Ticaret.Services.Category_S;
-using E_Ticaret.Services.Product_S;
+﻿
+using ECommerce.DTOs.Product;
+using ECommerce.Services.Product_S;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
-namespace E_Ticaret.Controllers
+namespace ECommerce.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

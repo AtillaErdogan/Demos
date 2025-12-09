@@ -1,4 +1,4 @@
-﻿namespace E_Ticaret.DTOs.Product
+﻿namespace ECommerce.DTOs.Product
 {
     public class ProductDto
     {

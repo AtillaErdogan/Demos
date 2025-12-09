@@ -1,9 +1,9 @@
-﻿namespace E_Ticaret.DTOs.Product
+﻿namespace ECommerce.DTOs.Product
 {
     public class UpdateProductDto
     {
         // Güncelleme işlemi için Id gereklidir
-        public int Id { get; set; }
+        //public int Id { get; set; }
         public string? Name { get; set; }
 
         public decimal Price { get; set; }

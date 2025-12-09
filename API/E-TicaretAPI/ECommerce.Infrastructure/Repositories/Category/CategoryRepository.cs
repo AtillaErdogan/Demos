@@ -1,10 +1,11 @@
 ﻿
-using E_Ticaret.Entities;
+
 using ECommerce.Data;
 using ECommerce.Domain.Interfaces;
+using ECommerce.Entities;
 using Microsoft.EntityFrameworkCore;
 
-namespace E_Ticaret.Repositories.Category_R
+namespace ECommerce.Repositories.Category_R
 {
     public class CategoryRepository : GenericRepository<Category>, ICategoryRepository
     {

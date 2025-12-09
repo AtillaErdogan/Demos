@@ -1,8 +1,10 @@
 ﻿using AutoMapper;
-using E_Ticaret.DTOs.Category;
-using E_Ticaret.Entities;
 
-namespace E_Ticaret.Mappings
+
+using ECommerce.DTOs.Category;
+using ECommerce.Entities;
+
+namespace ECommerce.Application.Mappings
 {
     public class CategoryProfile : Profile
     {

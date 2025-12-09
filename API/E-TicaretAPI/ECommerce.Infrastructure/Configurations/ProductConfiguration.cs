@@ -1,5 +1,6 @@
-﻿using E_Ticaret.Entities;
+﻿
 using ECommerce.Configurations;
+using ECommerce.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 

@@ -1,10 +1,11 @@
 ﻿
-using E_Ticaret.Entities;
+
 using ECommerce.Data;
 using ECommerce.Domain.Interfaces;
+using ECommerce.Entities;
 using Microsoft.EntityFrameworkCore;
 
-namespace E_Ticaret.Repositories.Product_R
+namespace ECommerce.Repositories.Product_R
 {
     public class ProductRepository : GenericRepository<Product>, IProductRepository
     {
@@ -13,11 +14,20 @@ namespace E_Ticaret.Repositories.Product_R
         {
         }
 
-        public async Task<List<Product>> GetProductsByCategory(int categoryId)
+        public async Task<List<Product>> GetAllWithCategoryAsync()
         {
             return await _context.Products
-                             .Where(x => x.CategoryId == categoryId)
-                             .ToListAsync();
+                                 .Include(p => p.Category) // Category yükleniyor
+                                 .ToListAsync();
+        }
+
+        public async Task<List<Product>> GetProductsByCategoryAsync(int categoryId)
+        {
+
+            return await _context.Products
+                                 .Where(p => p.CategoryId == categoryId)
+                                 .Include(p => p.Category)
+                                 .ToListAsync();
         }
     }
 

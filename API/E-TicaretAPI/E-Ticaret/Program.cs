@@ -1,18 +1,17 @@
+using AutoMapper;
 using ECommerce.Application.Interfaces;
+using ECommerce.Application.Mappings;
 using ECommerce.Data;
 using ECommerce.Domain.Interfaces;
+using ECommerce.Middlewares;
+using ECommerce.Repositories;
+using ECommerce.Repositories.Category_R;
+using ECommerce.Repositories.Product_R;
+using ECommerce.Services.Category_S;
+using ECommerce.Services.Product_S;
 using FluentValidation;
 using FluentValidation.AspNetCore;
 using Microsoft.EntityFrameworkCore;
-using E_Ticaret.Services.Product_S;
-using E_Ticaret.Services.Category_S;
-using E_Ticaret.Repositories;
-using E_Ticaret.Repositories.Category_R;
-using E_Ticaret.Repositories.Product_R;
-using E_Ticaret.Middlewares;
-using ECommerce.Services.Category_S;
-using ECommerce.Services.Product_S;
-
 
 
 
@@ -21,7 +20,14 @@ using ECommerce.Services.Product_S;
 var builder = WebApplication.CreateBuilder(args);
 
 
-builder.Services.AddAutoMapper(typeof(Program));
+
+// AutoMapper
+builder.Services.AddAutoMapper(typeof(CategoryProfile).Assembly);
+builder.Services.AddAutoMapper(typeof(ProductProfile).Assembly);
+
+
+
+
 
 builder.Services.AddControllers();
 

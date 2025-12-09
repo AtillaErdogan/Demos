@@ -1,4 +1,5 @@
-﻿using E_Ticaret.DTOs.Category;
+﻿
+using ECommerce.DTOs.Category;
 using FluentValidation;
 
 namespace ECommerce.Validation.Category
@@ -7,8 +8,8 @@ namespace ECommerce.Validation.Category
     {
         public UpdateCategoryDtoValidator()
         {
-            RuleFor(x => x.Id)
-                .GreaterThan(0).WithMessage("Geçerli bir kategori ID giriniz!");
+            //RuleFor(x => x.Id)
+            //  .GreaterThan(0).WithMessage("Geçerli bir kategori ID giriniz!");
 
             RuleFor(x => x.Name)
                 .NotEmpty().WithMessage("Kategori adı boş olamaz!")
